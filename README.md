@@ -1,5 +1,5 @@
 # magic8BallPHP
-Tutorial from [codeacademy](www.codecademy.com)
+Tutorial from [codecademy](www.codecademy.com)
 // 
 Save to local drive and open drive or directory location in terminal.
 // 
@@ -10,7 +10,7 @@ php magic8Ball.php to run program.
 PHP
 
 ## Acknowledgements
-codeacademy.com
+codecademy.com
 
 ## 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
